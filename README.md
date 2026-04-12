@@ -98,9 +98,7 @@ processed/
 | E | Cross-paradigm identity transfer — PhysioNet and SignEEG | ~2 min |
 | F | MDD leakage simulation (10 repeats + 200 permutations) | ~7 min |
 | G | Summary tables (printed and saved as CSV) | < 1 s |
-| H | Figure: distance distributions and cross-session decay | ~2 min |
 | I | Variance decomposition + ICC, subject-level bootstrap (Longitudinal + PhysioNet) | ~5 min |
-| J | Figure: variance decomposition bar chart and ICC histogram | < 1 s |
 
 ---
 
