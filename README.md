@@ -1,6 +1,6 @@
-# Subject Identity Strongly Shapes EEG Spectral Features and Can Inflate Machine-Learning Performance
+# Subject Identity Is a Major Source of Variance in EEG Spectral Features and Can Inflate Machine Learning Evaluation
 
-**Companion code for:** Ugail & Howard (2026). Subject Identity Strongly Shapes EEG Spectral Features and Can Inflate Machine Learning Performance
+**Companion code for:** Ugail & Howard (2026). Subject Identity Is a Major Source of Variance in EEG Spectral Features and Can Inflate Machine Learning Evaluation
 
 ---
 
