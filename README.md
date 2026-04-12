@@ -1,6 +1,6 @@
 # Subject Identity Strongly Shapes EEG Spectral Features and Can Inflate Machine-Learning Performance
 
-**Companion code for:** Ugail & Howard (2026). *Subject Identity Strongly Shapes EEG Spectral Features and Can Inflate Machine-Learning Performance
+**Companion code for:** Ugail & Howard (2026). Subject Identity Strongly Shapes EEG Spectral Features and Can Inflate Machine Learning Performance
 
 ---
 
@@ -79,7 +79,7 @@ processed/
    ```python
    BASE_DIR = Path("/content/drive/MyDrive/your/path/to/data")
    ```
-4. Run all cells. Runtime is approximately 20–30 minutes on a CPU instance. GPU (A100 or equlivalent is strongly recommended).
+4. Run all cells. Runtime is approximately 20–30 minutes on a CPU instance. GPU (A100 or equivalent is strongly recommended).
 
 ---
 
