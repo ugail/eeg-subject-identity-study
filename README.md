@@ -1,6 +1,7 @@
 # Subject Identity Is a Major Source of Variance in EEG Spectral Features and Can Inflate Machine Learning Evaluation
 
-**Companion code for:** Ugail, H.; Howard, N.; Elmahmudi, A.A.; Mnasri, Z. Subject-Wise Depression Screening from Eight-Channel Resting-State EEG Using Asymmetry-Aware Spectral Features and Connectivity Ablation. Sensors 2026, 26, 3065. https://doi.org/10.3390/s26103065
+**Companion code for:** Ugail, H.; Howard, N.; Subject Identity Is a Major Source of Variance in EEG Spectral Features and Can Inflate Machine Learning Evaluation
+
 
 
 ---
