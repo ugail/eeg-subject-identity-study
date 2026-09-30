@@ -1,6 +1,6 @@
 # Subject Identity Is a Major Source of Variance in EEG Spectral Features and Can Inflate Machine Learning Evaluation
 
-**Companion code for:** Ugail, H.; Howard, N.; Subject Identity Is a Major Source of Variance in EEG Spectral Features and Can Inflate Machine Learning Evaluation
+**Companion code for:** Ugail, H., Wirt, R., & Howard, N. (2026). Quantifying Subject-Identity Variance in Spectral EEG Features and Its Role in Machine Learning Evaluation Leakage. Sensors, 26(19), 6180. https://doi.org/10.3390/s26196180
 
 
 
@@ -149,6 +149,8 @@ No epoch rejection beyond the segmentation boundary is applied. No cross-subject
 
 ---
 
+## Cite as:
+Ugail, H., Wirt, R., & Howard, N. (2026). Quantifying Subject-Identity Variance in Spectral EEG Features and Its Role in Machine Learning Evaluation Leakage. Sensors, 26(19), 6180. https://doi.org/10.3390/s26196180
 
 ## License
 
